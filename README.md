@@ -10,3 +10,5 @@
 
 
 [Download TulingX VPN New Version +](http://66.42.44.179:9088/download/tulingx.apk) 
+
+遇到任何问题欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/PPJzrRiBH5t5mNmfV57WZA)
