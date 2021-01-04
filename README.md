@@ -1,4 +1,4 @@
-## 图灵 VPN 1.1.13
+## 图灵 VPN 
 
 －简单 无需注册，无需设置，一键翻墙。 下载图灵VPN后点击开关就可翻墙。
 
@@ -9,6 +9,7 @@
 －软件轻量 图灵VPN只占7MB的空间。
 
 
-[Download TulingX VPN New Version +](http://66.42.44.179:9088/download/tulingx.apk) 
+Android(1.1.13): [Download TulingX VPN New Version +](http://66.42.44.179:9088/download/tulingx.apk) 
+iOS(1.0.6): https://testflight.apple.com/join/ud1FVIMV
 
 任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/PPJzrRiBH5t5mNmfV57WZA)
