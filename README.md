@@ -11,14 +11,14 @@
 
 Android: [下载 TulingX Android VPN 1.1.16](http://66.42.44.179:9088/download/tulingx.apk) 
 
-iOS (Testflight安装):
+iOS (TestFlight安装):
 
-   1 [点击进入 Testflight 链接](https://testflight.apple.com/join/ud1FVIMV)
+   1 [点击进入 TestFlight 链接](https://testflight.apple.com/join/ud1FVIMV)
     
    2 打开链接后，按照步骤首先点击安装Testflight
     
-   3 按照步骤点击安装图灵vpn
+   3 按照步骤点击安装图灵VPN
    
-   4 在Testflight中设置打开自动更新（重要！以免更新不及时影响使用）
+   4 在TestFlight中设置打开自动更新（重要！以免更新不及时影响使用）
 
 任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/PPJzrRiBH5t5mNmfV57WZA)
