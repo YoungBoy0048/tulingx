@@ -9,9 +9,11 @@
 －软件轻量 图灵VPN只占9MB的空间。
 
 
-Android: [下载 TulingX Android VPN 1.1.17](http://66.42.44.179:9088/download/tulingx.apk) 
+# Android:
 
-iOS (TestFlight安装):
+[下载 TulingX Android VPN 1.1.17](http://66.42.44.179:9088/download/tulingx.apk) 
+
+# iOS (TestFlight安装):
 
    1 [点击进入 TestFlight 链接](https://testflight.apple.com/join/ud1FVIMV)
     
