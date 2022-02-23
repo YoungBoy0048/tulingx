@@ -26,13 +26,13 @@
 任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/hQIgjjh2XnNiNzU1)
 
 
-# Mac
+# Mac (付费用户)
 [下载 TulingX Mac VPN 1.0.7](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
 
 建议设置默认浏览器为 Chrome 或者 Firefox，以免打开操作界面出现问题
 
 
-# Windows
+# Windows (付费用户)
 [下载 TulingX Windows VPN 1.0.0](https://f002.backblazeb2.com/file/tulingx/Windows/ReleaseNew/tulingx_setup.exe) 
 
 建议设置默认浏览器为 IE 或者 Firefox，以免打开操作界面出现问题
