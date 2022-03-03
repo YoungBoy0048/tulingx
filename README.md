@@ -33,6 +33,6 @@
 
 
 # Windows (付费用户)
-[下载 TulingX Windows VPN 1.0.0](https://f002.backblazeb2.com/file/tulingx/Windows/ReleaseNew/tulingx_setup.exe) 
+[下载 TulingX Windows VPN 1.0.1](https://f002.backblazeb2.com/file/tulingx/Windows/ReleaseNew/tulingx_setup.exe) 
 
 建议设置默认浏览器为 IE 或者 Firefox，以免打开操作界面出现问题
