@@ -27,9 +27,9 @@
 
 
 # Mac
-[下载 TulingX Mac VPN 1.1.0](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
+[下载 TulingX Mac VPN 1.1.1](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
 
 
 # Windows
-[下载 TulingX Windows VPN 1.0.3](https://f002.backblazeb2.com/file/tulingx/Windows/ReleaseNew/tulingx_setup.exe) 
+[下载 TulingX Windows VPN 1.0.4](https://f002.backblazeb2.com/file/tulingx/Windows/ReleaseNew/tulingx_setup.exe) 
 
