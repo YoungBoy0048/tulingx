@@ -8,6 +8,8 @@
 
 －软件轻量 图灵VPN只占9MB的空间。
 
+任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/hQIgjjh2XnNiNzU1)
+
 
 # Android:
 
@@ -22,9 +24,6 @@
    3 按照步骤点击安装图灵VPN
    
    4 在TestFlight中设置打开自动更新（重要！以免更新不及时影响使用）
-
-任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/hQIgjjh2XnNiNzU1)
-
 
 # Mac
 [下载 TulingX Mac VPN 1.1.1](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
