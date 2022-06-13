@@ -26,7 +26,7 @@
    4 在TestFlight中设置打开自动更新（重要！以免更新不及时影响使用）
 
 # Mac
-[下载 TulingX Mac VPN 1.1.1](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
+[下载 TulingX Mac VPN 1.1.2](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
 
 
 # Windows
