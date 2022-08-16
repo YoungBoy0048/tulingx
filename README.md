@@ -13,7 +13,7 @@
 
 # Android:
 
-[下载 TulingX Android VPN 1.2.16](https://f002.backblazeb2.com/file/tulingx/Android/ReleaseNew/iturling.apk) 
+[下载 TulingX Android VPN 1.2.17](https://f002.backblazeb2.com/file/tulingx/Android/ReleaseNew/iturling.apk) 
 
 # iOS (TestFlight安装):
 
