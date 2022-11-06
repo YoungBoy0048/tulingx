@@ -13,7 +13,7 @@
 
 # Android:
 
-[下载 TulingX Android VPN 1.2.25](http://66.42.44.179:9088/download/tulingx.apk) 
+[下载 TulingX Android VPN 1.2.25](https://f002.backblazeb2.com/file/tulingx/Android/ReleaseNew/iturling.apk) 
 
 # iOS (App Store 安装):
 
