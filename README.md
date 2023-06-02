@@ -24,7 +24,7 @@
    2 [点击进入 App Store 链接安装](https://apps.apple.com/us/app/tulingx-proxy/id1535431878)
 
 # Mac
-[下载 TulingX Mac VPN 1.1.6](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
+[下载 TulingX Mac VPN 1.1.7](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
 
 
 # Windows
