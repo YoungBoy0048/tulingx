@@ -17,11 +17,8 @@
 
 [下载 TulingX Android VPN 1.3.0](https://f002.backblazeb2.com/file/tulingx/Android/ReleaseNew/iturling.apk) 
 
-# iOS (App Store 安装):
-
-   1 非中国大陆区 Apple Id 登录（重要！） 
-      
-   2 [点击进入 App Store 链接安装](https://apps.apple.com/us/app/tulingx-proxy/id1535431878)
+# iOS:
+[TestFlight安装(无地区限制)](https://testflight.apple.com/join/XLq75oK4)
 
 # Mac
 [下载 TulingX Mac VPN 1.2.0](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
