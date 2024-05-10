@@ -25,5 +25,5 @@
 
 
 # Windows
-[下载 TulingX Windows VPN 1.2.0](https://f002.backblazeb2.com/file/tulingx/Windows/tulingx_setup.exe)
+[下载 TulingX Windows VPN 1.2.1](https://f002.backblazeb2.com/file/tulingx/Windows/tulingx_setup.exe)
 
