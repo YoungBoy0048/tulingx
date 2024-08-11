@@ -21,7 +21,7 @@
 [TestFlight安装(无地区限制)](https://testflight.apple.com/join/XLq75oK4)
 
 # Mac
-[下载 TulingX Mac VPN 1.2.5](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
+[下载 TulingX Mac VPN 1.2.6](https://f002.backblazeb2.com/file/tulingx/Mac/ReleaseNew/TulingX.dmg) 
 
 
 # Windows
