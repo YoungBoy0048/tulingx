@@ -8,8 +8,6 @@
 
 －免费 让每个人都能自由访问互联网。
 
-－软件轻量 图灵VPN只占10MB的空间。
-
 任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/hQIgjjh2XnNiNzU1)
 
 
